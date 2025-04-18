@@ -10,4 +10,4 @@ Physics and Mathematics Undergrad at Duke University.
 - ⚡ Fun fact: I love playing Chess
 
 Projects not in Github:
-https://xcat-3.github.io/
+- https://xcat-3.github.io/
